@@ -1,0 +1,12 @@
+
+Projeto Gelato Mágico - Dados históricos de vendas
+
+Temperatura: 20°C | Vendas: 100 sorvetes
+Temperatura: 22°C | Vendas: 120 sorvetes
+Temperatura: 24°C | Vendas: 145 sorvetes
+Temperatura: 26°C | Vendas: 170 sorvetes
+Temperatura: 28°C | Vendas: 200 sorvetes
+Temperatura: 30°C | Vendas: 230 sorvetes
+Temperatura: 32°C | Vendas: 260 sorvetes
+Temperatura: 34°C | Vendas: 290 sorvetes
+Temperatura: 36°C | Vendas: 320 sorvetes
