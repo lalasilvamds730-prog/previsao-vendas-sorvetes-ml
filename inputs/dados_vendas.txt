@@ -1,7 +1,0 @@
-
-Gelato Mágico - Dados de vendas
-
-Em dias de temperatura baixa, as vendas de sorvete diminuem.
-Quando a temperatura aumenta, a procura por sorvetes também aumenta.
-Em dias quentes, a sorveteria precisa preparar mais produtos.
-O objetivo é utilizar Machine Learning para prever a demanda.
