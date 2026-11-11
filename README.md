@@ -53,7 +53,18 @@ O desempenho é avaliado utilizando:
 - MSE: erro quadrático médio.
 - R²: coeficiente de determinação.
 
-Os resultados serão documentados após a execução do treinamento.
+### Resultados obtidos
+
+Após executar o treinamento, obtivemos os seguintes resultados:
+
+- **MAE:** 1,43
+- **MSE:** 4,08
+- **R²:** 0,9994
+- **Previsão para 30°C:** 231 sorvetes.
+
+O modelo utilizou Regressão Linear e teve seu experimento registrado no MLflow, incluindo parâmetros, métricas e arquivos do modelo.
+
+**Observação:** foram utilizados dados simulados para fins educacionais.
 
 ## 💡 Aprendizados
 
